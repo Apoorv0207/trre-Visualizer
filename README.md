@@ -71,7 +71,7 @@ tree-visualizer/
 │   ├── App.jsx
 │   └── main.jsx
 │
-├── screenshots/              # Screenshots / GIFs (add here)
+|
 │
 ├── README.md
 ├── package.json
