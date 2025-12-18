@@ -42,6 +42,17 @@ It automatically calculates layout, avoids node overlap, and supports user inter
 
 ---
 
+## 🛠️ Setup & Installation
+
+### Clone the repository
+```bash
+git clone https://github.com//Apoorv0207/trre-Visualizer.git
+cd tree-visualizer
+npm install
+npm run dev
+
+
+
 ## 📂 Project Structure
 
 ```text
